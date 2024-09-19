@@ -7,7 +7,9 @@
 - **언어**: Swift
 - **IDE**: Xcode
 - **프레임워크**: UIKit
+- **UI설계**: 스토리보드 활용
 - **기타**: Auto Layout, 지도 API, 이미지 필터링 등
+
 
 ## 폴더 구조
 - **Catstagram**: 간단한 사진 공유 앱 클론 코딩
